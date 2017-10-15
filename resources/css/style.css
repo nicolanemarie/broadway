@@ -1,0 +1,40 @@
+body {
+text-align: center;
+font-family: "Helvetica";
+}
+
+h1 {
+font-size: 70px;
+color: white;
+}
+
+.nav ul {
+font-size: 18px;
+color: white;
+}
+
+h1 h2, h3 {
+font-weight: bold
+}
+ 
+h2 {
+font-size: 32px;
+}
+
+h3 {
+font-size: 23px;
+}
+
+p {
+font-size: 14px;
+}
+
+h3 .jumbotron {
+color: white;
+}
+
+.footer {
+font-size: 11px;
+color: white;
+background-color: dimgray;
+}
